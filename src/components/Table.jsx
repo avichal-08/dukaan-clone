@@ -3,7 +3,7 @@ export function Table(){
         <div className="pt-3 pl-3 mr-5">
             <table class="w-full">
   <thead>
-    <tr className="bg-gray-200">
+    <tr className="bg-gray-200 rounded">
       <td className="pl-3 py-2">Order Id</td>
       <td className="pl-3 py-2">Status</td>
       <td className="pl-3 py-2">Transaction ID</td>
